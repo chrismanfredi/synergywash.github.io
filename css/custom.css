@@ -1,0 +1,30 @@
+.gutter {
+	width: 50%;
+	height:  50%;
+}
+
+.driveway {
+	width: 50%;
+	height:  30%;
+}
+
+.socials {
+	color: white;
+}
+
+.contactus {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+.phonenumberheader {
+	font-family: 'Quicksand', sans-serif;
+	text-align: left;
+	padding-left: 5%;
+}
+
+.phonenumber {
+	font-family: 'Quicksand', sans-serif;
+	text-align: left;
+	padding-left: 5%;
+}
